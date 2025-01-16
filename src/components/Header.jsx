@@ -93,6 +93,14 @@ export default function header({cart, removeFromCart, increaseQuantity, decrease
                         </div>
                     </div>
                 </nav>
+
+                <nav className="navbar justify-content-center">
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Acerca de</a></li>
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+                </nav>
             </div>
         </div>
     </header>
